@@ -42,3 +42,13 @@
 @@||connect.facebook.net^$client=192.168.123.108|192.168.123.219
 @@||facebook.com^$client=192.168.123.108|192.168.123.219
 @@||mail-ads.google.com^$client=192.168.123.108|192.168.123.219
+
+
+
+
+
+
+
+!Allowlist on all network
+@@||s.youtube.com^$important
+
