@@ -19,6 +19,7 @@
 @@||connect.facebook.net^$client=192.168.200.0/24
 @@||facebook.com^$client=192.168.200.0/24
 @@||mail-ads.google.com^$client=192.168.200.0/24
+@@||tpc.googlesyndication.com^$client=192.168.200.0/24
 
 
 @@||bannerboo.com^$client=192.168.123.108|192.168.123.219
@@ -42,6 +43,7 @@
 @@||connect.facebook.net^$client=192.168.123.108|192.168.123.219
 @@||facebook.com^$client=192.168.123.108|192.168.123.219
 @@||mail-ads.google.com^$client=192.168.123.108|192.168.123.219
+@@||tpc.googlesyndication.com^$client=192.168.123.108|192.168.123.219
 
 
 
