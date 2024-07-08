@@ -55,4 +55,5 @@
 
 !Allowlist on all network
 @@||s.youtube.com^$important
+@@||app.neilpatel.com^
 
