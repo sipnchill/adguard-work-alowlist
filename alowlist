@@ -23,29 +23,29 @@
 @@||click.pstmrk.it^$client=192.168.200.0/24
 
 
-@@||bannerboo.com^$client=192.168.123.108|192.168.123.219
-@@||google.com^$client=192.168.123.108|192.168.123.219
-@@||googletagmanager.com^$client=192.168.123.108|192.168.123.219
-@@||google-analytics.com^$client=192.168.123.108|192.168.123.219
-@@||googletagservices.com^$client=192.168.123.108|192.168.123.219
-@@||ads.google.com^$client=192.168.123.108|192.168.123.219
-@@||seocrawl.com^$client=192.168.123.108|192.168.123.219
-@@||fonts.gstatic.com^$client=192.168.123.108|192.168.123.219
-@@||connect.facebook.net^$client=192.168.123.108|192.168.123.219
-@@||facebook.com^$client=192.168.123.108|192.168.123.219
-@@||bannerboo.com^$client=192.168.123.108|192.168.123.219
-@@||google.com^$client=192.168.123.108|192.168.123.219
-@@||googletagmanager.com^$client=192.168.123.108|192.168.123.219
-@@||google-analytics.com^$client=192.168.123.108|192.168.123.219
-@@||googletagservices.com^$client=192.168.123.108|192.168.123.219
-@@||ads.google.com^$client=192.168.123.108|192.168.123.219
-@@||seocrawl.com^$client=192.168.123.108|192.168.123.219
-@@||fonts.gstatic.com^$client=192.168.123.108|192.168.123.219
-@@||connect.facebook.net^$client=192.168.123.108|192.168.123.219
-@@||facebook.com^$client=192.168.123.108|192.168.123.219
-@@||mail-ads.google.com^$client=192.168.123.108|192.168.123.219
-@@||tpc.googlesyndication.com^$client=192.168.123.108|192.168.123.219
-@@||click.pstmrk.it^$client=192.168.123.108|192.168.123.219
+@@||bannerboo.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||google.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||googletagmanager.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||google-analytics.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||googletagservices.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||ads.google.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||seocrawl.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||fonts.gstatic.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||connect.facebook.net^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||facebook.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||bannerboo.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||google.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||googletagmanager.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||google-analytics.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||googletagservices.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||ads.google.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||seocrawl.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||fonts.gstatic.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||connect.facebook.net^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||facebook.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||mail-ads.google.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||tpc.googlesyndication.com^$client=192.168.123.108|192.168.123.219|192.168.123.44
+@@||click.pstmrk.it^$client=192.168.123.108|192.168.123.219|192.168.123.44
 
 
 
